@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "name": "@cranleighschool/tailwind-preset",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cranleighschool/tailwind-preset.git"
+  },
+  "keywords": [
+    
+  ],
+  "author": "Fred Bradley",
+  "license": "MIT",
+}
